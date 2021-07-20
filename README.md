@@ -1,4 +1,4 @@
-# URI-2290
+# URI-2290 C#
 
   URI Online Judge | 2290
   Números Apaixornados
